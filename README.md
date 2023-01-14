@@ -3,4 +3,4 @@
 
 Расписание мужских гонок каждого сезона Кубка Мира со страницы ttps://en.wikipedia.org/wiki/FIS_Cross-Country_World_Cup
 
-!(wc_ev.png)
+![](wc_ev.png)
